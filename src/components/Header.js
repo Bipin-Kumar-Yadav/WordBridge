@@ -4,7 +4,7 @@ import ThemeToggle from "./ThemeToggle";
 import { useRecoilState } from "recoil";
 import { themeState } from "../recoilState/ThemeState";
 const Header = () =>{
-    const [theme,setTheme] = useRecoilState(themeState);
+    const [theme] = useRecoilState(themeState);
     return (
         <header className={`sticky top-0 z-10 ${theme==='dark'?"bg-gray-900/80":"bg-white/80"} h-[60px] backdrop-blur-md shadow-sm`}>
         <div className="mx-auto px-4 py-4  min-h-full">
