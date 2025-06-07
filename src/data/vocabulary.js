@@ -1338,6 +1338,7 @@ export const vocabularyData = [
     }
 },
 {
+   idx: 89,
   word: "slight exaggeration",
   pronunciation: "/slaɪt ɪɡˌzædʒəˈreɪʃən/",
   meanings: {
@@ -1351,6 +1352,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+   idx: 90,
   word: "stare down",
   pronunciation: "/steə daʊn/",
   meanings: {
@@ -1371,6 +1373,7 @@ export const vocabularyData = [
   }
 },
 {
+   idx: 91,
   word: "detonate",
   pronunciation: "/ˈdetəneɪt/",
   meanings: {
@@ -1391,6 +1394,7 @@ export const vocabularyData = [
   }
 },
 {
+   idx: 92,
   word: "fists",
   pronunciation: "/fɪsts/",
   meanings: {
@@ -1404,6 +1408,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+   idx: 93,
   word: "beyond",
   pronunciation: "/bɪˈjɒnd/",
   meanings: {
@@ -1417,6 +1422,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+   idx: 94,
   word: "conventional",
   pronunciation: "/kənˈvenʃənl/",
   meanings: {
@@ -1430,6 +1436,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+   idx: 95,
   word: "virulent",
   pronunciation: "/ˈvɪrələnt/",
   meanings: {
@@ -1443,6 +1450,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+   idx: 96,
   word: "intrusion",
   pronunciation: "/ɪnˈtruːʒən/",
   meanings: {
@@ -1456,6 +1464,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+   idx: 97,
   word: "refused",
   pronunciation: "/rɪˈfjuːzd/",
   meanings: {
@@ -1476,6 +1485,7 @@ export const vocabularyData = [
   }
 },
 {
+   idx: 98,
   word: "fantasy",
   pronunciation: "/ˈfæntəsi/",
   meanings: {
@@ -1490,6 +1500,7 @@ export const vocabularyData = [
 }
 ,
 {
+   idx: 99,
   word: "sorcery",
   pronunciation: "/ˈsɔːsəri/",
   meanings: {
@@ -1503,6 +1514,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+   idx: 100,
   word: "advantageous",
   pronunciation: "/ˌædvənˈteɪdʒəs/",
   meanings: {
@@ -1516,6 +1528,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+   idx: 101,
   word: "wallop",
   pronunciation: "/ˈwɒləp/",
   meanings: {
@@ -1536,6 +1549,7 @@ export const vocabularyData = [
   }
 },
 {
+   idx: 102,
   word: "engenders",
   pronunciation: "/ɪnˈdʒendərz/",
   meanings: {
@@ -1556,6 +1570,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 103,
   word: "take eyes off",
   pronunciation: "/teɪk aɪz ɒf/",
   meanings: {
@@ -1576,6 +1591,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 104,
   word: "resolved",
   pronunciation: "/rɪˈzɒlvd/",
   meanings: {
@@ -1596,6 +1612,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 105,
   word: "seek out",
   pronunciation: "/siːk aʊt/",
   meanings: {
@@ -1616,6 +1633,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 106,
   word: "enthralled",
   pronunciation: "/ɪnˈθrɔːld/",
   meanings: {
@@ -1636,6 +1654,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 107,
   word: "sidled up",
   pronunciation: "/ˈsaɪdld ʌp/",
   meanings: {
@@ -1656,6 +1675,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 108,
   word: "tad louder",
   pronunciation: "/tæd ˈlaʊdər/",
   meanings: {
@@ -1670,6 +1690,7 @@ export const vocabularyData = [
 }
 ,
 {
+  idx: 109,
   word: "vary",
   pronunciation: "/ˈveəri/",
   meanings: {
@@ -1690,6 +1711,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 110,
   word: "tapped",
   pronunciation: "/tæpt/",
   meanings: {
@@ -1710,6 +1732,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 111,
   word: "whirled around",
   pronunciation: "/wɜːld əˈraʊnd/",
   meanings: {
@@ -1730,6 +1753,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 112,
   word: "candidly",
   pronunciation: "/ˈkændɪdli/",
   meanings: {
@@ -1743,6 +1767,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 113,
   word: "heartbeat",
   pronunciation: "/ˈhɑːtˌbiːt/",
   meanings: {
@@ -1756,6 +1781,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 114,
   word: "captivate",
   pronunciation: "/ˈkæptɪveɪt/",
   meanings: {
@@ -1776,6 +1802,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 115,
   word: "suspected",
   pronunciation: "/səˈspektɪd/",
   meanings: {
@@ -1796,6 +1823,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 116,
   word: "nevertheless",
   pronunciation: "/ˌnevəðəˈles/",
   meanings: {
@@ -1809,6 +1837,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 117,
   word: "awaken",
   pronunciation: "/əˈweɪkən/",
   meanings: {
@@ -1829,6 +1858,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 118,
   word: "abstract thinker",
   pronunciation: "/ˈæbstrækt ˈθɪŋkər/",
   meanings: {
@@ -1843,6 +1873,7 @@ export const vocabularyData = [
 }
 ,
 {
+  idx: 119,
   word: "concrete thinker",
   pronunciation: "/ˈkɒŋkriːt ˈθɪŋkər/",
   meanings: {
@@ -1856,6 +1887,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 120,
   word: "distract",
   pronunciation: "/dɪˈstrækt/",
   meanings: {
@@ -1876,6 +1908,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 121,
   word: "unswerving",
   pronunciation: "/ʌnˈswɜːvɪŋ/",
   meanings: {
@@ -1889,6 +1922,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 122,
   word: "conducted",
   pronunciation: "/kənˈdʌktɪd/",
   meanings: {
@@ -1909,6 +1943,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 123,
   word: "reveal",
   pronunciation: "/rɪˈviːl/",
   meanings: {
@@ -1929,6 +1964,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 124,
   word: "monologue",
   pronunciation: "/ˈmɒnəlɒɡ/",
   meanings: {
@@ -1942,6 +1978,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 125,
   word: "encourage",
   pronunciation: "/ɪnˈkʌrɪdʒ/",
   meanings: {
@@ -1962,6 +1999,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 126,
   word: "intimate",
   pronunciation: "/ˈɪntɪmət/ (adjective), /ˈɪntɪmeɪt/ (verb)",
   meanings: {
@@ -1982,6 +2020,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 127,
   word: "intimidate",
   pronunciation: "/ɪnˈtɪmɪdeɪt/",
   meanings: {
@@ -2002,6 +2041,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 128,
   word: "hostile",
   pronunciation: "/ˈhɒstaɪl/",
   meanings: {
@@ -2016,6 +2056,7 @@ export const vocabularyData = [
 }
 ,
 {
+  idx: 129,
   word: "threaten",
   pronunciation: "/ˈθretən/",
   meanings: {
@@ -2036,6 +2077,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 130,
   word: "slug",
   pronunciation: "/slʌɡ/",
   meanings: {
@@ -2056,6 +2098,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 131,
   word: "profound",
   pronunciation: "/prəˈfaʊnd/",
   meanings: {
@@ -2069,6 +2112,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 132,
   word: "gush",
   pronunciation: "/ɡʌʃ/",
   meanings: {
@@ -2089,6 +2133,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 133,
   word: "consciously",
   pronunciation: "/ˈkɒnʃəsli/",
   meanings: {
@@ -2102,6 +2147,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 134,
   word: "sticky",
   pronunciation: "/ˈstɪki/",
   meanings: {
@@ -2115,6 +2161,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 135,
   word: "reluctant",
   pronunciation: "/rɪˈlʌktənt/",
   meanings: {
@@ -2128,6 +2175,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 136,
   word: "interpret",
   pronunciation: "/ɪnˈtɜːprət/",
   meanings: {
@@ -2148,6 +2196,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 137,
   word: "broadcast",
   pronunciation: "/ˈbrɔːdkɑːst/",
   meanings: {
@@ -2168,6 +2217,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 138,
   word: "unwittingly",
   pronunciation: "/ʌnˈwɪtɪŋli/",
   meanings: {
@@ -2182,6 +2232,7 @@ export const vocabularyData = [
 }
 ,
 {
+  idx: 139,
   word: "comes across",
   pronunciation: "/kʌmz əˈkrɒs/",
   meanings: {
@@ -2202,6 +2253,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 140,
   word: "roughshod",
   pronunciation: "/ˈrʌfʃɒd/",
   meanings: {
@@ -2215,6 +2267,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 141,
   word: "bluntly blurt",
   pronunciation: "/blʌntli blɜːt/",
   meanings: {
@@ -2235,6 +2288,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 142,
   word: "gracious",
   pronunciation: "/ˈɡreɪʃəs/",
   meanings: {
@@ -2248,6 +2302,7 @@ export const vocabularyData = [
   verb_forms: null
 },
 {
+  idx: 143,
   word: "treat",
   pronunciation: "/triːt/",
   meanings: {
@@ -2268,6 +2323,7 @@ export const vocabularyData = [
   }
 },
 {
+  idx: 144,
   word: "boon to bottom line",
   pronunciation: "/buːn tə ˈbɒtəm laɪn/",
   meanings: {
