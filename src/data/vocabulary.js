@@ -1336,6 +1336,949 @@ export const vocabularyData = [
         s_es_form: "possesses",
         present_third_person: "possesses"
     }
+},
+{
+  word: "slight exaggeration",
+  pronunciation: "/slaɪt ɪɡˌzædʒəˈreɪʃən/",
+  meanings: {
+    hindi: "थोड़ी अतिशयोक्ति",
+    english: "a small or subtle overstatement"
+  },
+  examples: {
+    hindi: "उसने अपनी उपलब्धियों की थोड़ी अतिशयोक्ति की।",
+    english: "He gave a slight exaggeration of his achievements."
+  },
+  verb_forms: null
+},
+{
+  word: "stare down",
+  pronunciation: "/steə daʊn/",
+  meanings: {
+    hindi: "घूर कर डराना",
+    english: "to look directly at someone until they look away"
+  },
+  examples: {
+    hindi: "वह उसे घूर कर डराने की कोशिश कर रहा था।",
+    english: "He tried to stare him down."
+  },
+  verb_forms: {
+    base: "stare down",
+    past: "stared down",
+    past_participle: "stared down",
+    ing_form: "staring down",
+    s_es_form: "stares down",
+    present_third_person: "stares down"
+  }
+},
+{
+  word: "detonate",
+  pronunciation: "/ˈdetəneɪt/",
+  meanings: {
+    hindi: "विस्फोट करना",
+    english: "to explode or cause to explode"
+  },
+  examples: {
+    hindi: "बम को दूर से विस्फोटित किया गया।",
+    english: "The bomb was detonated remotely."
+  },
+  verb_forms: {
+    base: "detonate",
+    past: "detonated",
+    past_participle: "detonated",
+    ing_form: "detonating",
+    s_es_form: "detonates",
+    present_third_person: "detonates"
+  }
+},
+{
+  word: "fists",
+  pronunciation: "/fɪsts/",
+  meanings: {
+    hindi: "मुट्ठियाँ",
+    english: "hands clenched tightly"
+  },
+  examples: {
+    hindi: "उसने गुस्से में अपनी मुट्ठियाँ भींच लीं।",
+    english: "He clenched his fists in anger."
+  },
+  verb_forms: null
+},
+{
+  word: "beyond",
+  pronunciation: "/bɪˈjɒnd/",
+  meanings: {
+    hindi: "से परे",
+    english: "further than; more than"
+  },
+  examples: {
+    hindi: "यह मेरी कल्पना से परे था।",
+    english: "It was beyond my imagination."
+  },
+  verb_forms: null
+},
+{
+  word: "conventional",
+  pronunciation: "/kənˈvenʃənl/",
+  meanings: {
+    hindi: "परंपरागत",
+    english: "based on or in accordance with what is generally done"
+  },
+  examples: {
+    hindi: "उसने एक परंपरागत दृष्टिकोण अपनाया।",
+    english: "He followed a conventional approach."
+  },
+  verb_forms: null
+},
+{
+  word: "virulent",
+  pronunciation: "/ˈvɪrələnt/",
+  meanings: {
+    hindi: "घातक या तीव्र",
+    english: "extremely harmful or hostile"
+  },
+  examples: {
+    hindi: "वह एक घातक वायरस था।",
+    english: "It was a virulent virus."
+  },
+  verb_forms: null
+},
+{
+  word: "intrusion",
+  pronunciation: "/ɪnˈtruːʒən/",
+  meanings: {
+    hindi: "अनाधिकार प्रवेश",
+    english: "the act of intruding or invading"
+  },
+  examples: {
+    hindi: "उसके कमरे में अनाधिकार प्रवेश किया गया।",
+    english: "There was an intrusion into her room."
+  },
+  verb_forms: null
+},
+{
+  word: "refused",
+  pronunciation: "/rɪˈfjuːzd/",
+  meanings: {
+    hindi: "इंकार किया",
+    english: "declined to accept or do something"
+  },
+  examples: {
+    hindi: "उसने मेरी मदद लेने से इंकार कर दिया।",
+    english: "She refused to take my help."
+  },
+  verb_forms: {
+    base: "refuse",
+    past: "refused",
+    past_participle: "refused",
+    ing_form: "refusing",
+    s_es_form: "refuses",
+    present_third_person: "refuses"
+  }
+},
+{
+  word: "fantasy",
+  pronunciation: "/ˈfæntəsi/",
+  meanings: {
+    hindi: "कल्पना",
+    english: "imagination; a mental image of unreal or magical things"
+  },
+  examples: {
+    hindi: "वह कल्पना की दुनिया में खो गया।",
+    english: "He got lost in his fantasy world."
+  },
+  verb_forms: null
 }
+,
+{
+  word: "sorcery",
+  pronunciation: "/ˈsɔːsəri/",
+  meanings: {
+    hindi: "जादू-टोना",
+    english: "the use of magical powers, especially evil ones"
+  },
+  examples: {
+    hindi: "उस पर जादू-टोना करने का आरोप लगा।",
+    english: "He was accused of practicing sorcery."
+  },
+  verb_forms: null
+},
+{
+  word: "advantageous",
+  pronunciation: "/ˌædvənˈteɪdʒəs/",
+  meanings: {
+    hindi: "लाभकारी",
+    english: "beneficial; providing an advantage"
+  },
+  examples: {
+    hindi: "यह सौदा हमारे लिए बहुत लाभकारी है।",
+    english: "This deal is very advantageous for us."
+  },
+  verb_forms: null
+},
+{
+  word: "wallop",
+  pronunciation: "/ˈwɒləp/",
+  meanings: {
+    hindi: "जोर से मारना",
+    english: "to strike or hit someone very hard"
+  },
+  examples: {
+    hindi: "उसने चोर को जोर से मारा।",
+    english: "He gave the thief a solid wallop."
+  },
+  verb_forms: {
+    base: "wallop",
+    past: "walloped",
+    past_participle: "walloped",
+    ing_form: "walloping",
+    s_es_form: "wallops",
+    present_third_person: "wallops"
+  }
+},
+{
+  word: "engenders",
+  pronunciation: "/ɪnˈdʒendərz/",
+  meanings: {
+    hindi: "उत्पन्न करता है",
+    english: "causes or gives rise to"
+  },
+  examples: {
+    hindi: "विश्वास आपसी सम्मान को जन्म देता है।",
+    english: "Trust engenders mutual respect."
+  },
+  verb_forms: {
+    base: "engender",
+    past: "engendered",
+    past_participle: "engendered",
+    ing_form: "engendering",
+    s_es_form: "engenders",
+    present_third_person: "engenders"
+  }
+},
+{
+  word: "take eyes off",
+  pronunciation: "/teɪk aɪz ɒf/",
+  meanings: {
+    hindi: "नज़र हटाना",
+    english: "to stop looking at someone or something"
+  },
+  examples: {
+    hindi: "मैं उस सुंदर दृश्य से नज़र नहीं हटा सका।",
+    english: "I couldn't take my eyes off the beautiful view."
+  },
+  verb_forms: {
+    base: "take eyes off",
+    past: "took eyes off",
+    past_participle: "taken eyes off",
+    ing_form: "taking eyes off",
+    s_es_form: "takes eyes off",
+    present_third_person: "takes eyes off"
+  }
+},
+{
+  word: "resolved",
+  pronunciation: "/rɪˈzɒlvd/",
+  meanings: {
+    hindi: "संकल्पित; हल किया गया",
+    english: "determined or settled"
+  },
+  examples: {
+    hindi: "उसने समस्या को हल करने का संकल्प लिया।",
+    english: "He resolved to solve the issue."
+  },
+  verb_forms: {
+    base: "resolve",
+    past: "resolved",
+    past_participle: "resolved",
+    ing_form: "resolving",
+    s_es_form: "resolves",
+    present_third_person: "resolves"
+  }
+},
+{
+  word: "seek out",
+  pronunciation: "/siːk aʊt/",
+  meanings: {
+    hindi: "ढूंढ निकालना",
+    english: "to search for and find someone or something"
+  },
+  examples: {
+    hindi: "मैंने सबसे अच्छा समाधान ढूंढने की कोशिश की।",
+    english: "I tried to seek out the best solution."
+  },
+  verb_forms: {
+    base: "seek out",
+    past: "sought out",
+    past_participle: "sought out",
+    ing_form: "seeking out",
+    s_es_form: "seeks out",
+    present_third_person: "seeks out"
+  }
+},
+{
+  word: "enthralled",
+  pronunciation: "/ɪnˈθrɔːld/",
+  meanings: {
+    hindi: "मंत्रमुग्ध",
+    english: "captivated or fascinated"
+  },
+  examples: {
+    hindi: "हम शो की भव्यता से मंत्रमुग्ध हो गए।",
+    english: "We were enthralled by the grandeur of the show."
+  },
+  verb_forms: {
+    base: "enthrall",
+    past: "enthralled",
+    past_participle: "enthralled",
+    ing_form: "enthralling",
+    s_es_form: "enthralls",
+    present_third_person: "enthralls"
+  }
+},
+{
+  word: "sidled up",
+  pronunciation: "/ˈsaɪdld ʌp/",
+  meanings: {
+    hindi: "धीरे से पास आना",
+    english: "to move close to someone quietly and slowly"
+  },
+  examples: {
+    hindi: "बच्चा चुपके से माँ के पास आ गया।",
+    english: "The child sidled up to his mother."
+  },
+  verb_forms: {
+    base: "sidle up",
+    past: "sidled up",
+    past_participle: "sidled up",
+    ing_form: "sidling up",
+    s_es_form: "sidles up",
+    present_third_person: "sidles up"
+  }
+},
+{
+  word: "tad louder",
+  pronunciation: "/tæd ˈlaʊdər/",
+  meanings: {
+    hindi: "थोड़ा ज़्यादा तेज़",
+    english: "slightly louder"
+  },
+  examples: {
+    hindi: "कृपया आवाज़ को थोड़ा ज़्यादा तेज़ करें।",
+    english: "Please make it a tad louder."
+  },
+  verb_forms: null
+}
+,
+{
+  word: "vary",
+  pronunciation: "/ˈveəri/",
+  meanings: {
+    hindi: "भिन्न होना",
+    english: "to differ or change"
+  },
+  examples: {
+    hindi: "सभी छात्रों की रुचियाँ भिन्न होती हैं।",
+    english: "Students' interests vary widely."
+  },
+  verb_forms: {
+    base: "vary",
+    past: "varied",
+    past_participle: "varied",
+    ing_form: "varying",
+    s_es_form: "varies",
+    present_third_person: "varies"
+  }
+},
+{
+  word: "tapped",
+  pronunciation: "/tæpt/",
+  meanings: {
+    hindi: "थपथपाया; दोहन किया",
+    english: "lightly hit or made use of"
+  },
+  examples: {
+    hindi: "उसने खिड़की पर हल्के से थपथपाया।",
+    english: "He tapped on the window gently."
+  },
+  verb_forms: {
+    base: "tap",
+    past: "tapped",
+    past_participle: "tapped",
+    ing_form: "tapping",
+    s_es_form: "taps",
+    present_third_person: "taps"
+  }
+},
+{
+  word: "whirled around",
+  pronunciation: "/wɜːld əˈraʊnd/",
+  meanings: {
+    hindi: "घूम गया",
+    english: "turned around quickly"
+  },
+  examples: {
+    hindi: "उसने आवाज़ सुनते ही घूम कर देखा।",
+    english: "She whirled around at the sound."
+  },
+  verb_forms: {
+    base: "whirl around",
+    past: "whirled around",
+    past_participle: "whirled around",
+    ing_form: "whirling around",
+    s_es_form: "whirls around",
+    present_third_person: "whirls around"
+  }
+},
+{
+  word: "candidly",
+  pronunciation: "/ˈkændɪdli/",
+  meanings: {
+    hindi: "खुलकर",
+    english: "in an honest and straightforward way"
+  },
+  examples: {
+    hindi: "उसने अपनी गलती खुलकर स्वीकार की।",
+    english: "He candidly admitted his mistake."
+  },
+  verb_forms: null
+},
+{
+  word: "heartbeat",
+  pronunciation: "/ˈhɑːtˌbiːt/",
+  meanings: {
+    hindi: "धड़कन",
+    english: "the pulsation of the heart"
+  },
+  examples: {
+    hindi: "उसका दिल तेज़ी से धड़क रहा था।",
+    english: "His heartbeat was racing."
+  },
+  verb_forms: null
+},
+{
+  word: "captivate",
+  pronunciation: "/ˈkæptɪveɪt/",
+  meanings: {
+    hindi: "मोह लेना",
+    english: "to attract and hold the interest"
+  },
+  examples: {
+    hindi: "उसकी मुस्कान ने सबका मन मोह लिया।",
+    english: "Her smile captivated everyone."
+  },
+  verb_forms: {
+    base: "captivate",
+    past: "captivated",
+    past_participle: "captivated",
+    ing_form: "captivating",
+    s_es_form: "captivates",
+    present_third_person: "captivates"
+  }
+},
+{
+  word: "suspected",
+  pronunciation: "/səˈspektɪd/",
+  meanings: {
+    hindi: "संदेह किया",
+    english: "believed something to be likely or true"
+  },
+  examples: {
+    hindi: "पुलिस ने उसे चोरी में संदेहास्पद माना।",
+    english: "The police suspected him of theft."
+  },
+  verb_forms: {
+    base: "suspect",
+    past: "suspected",
+    past_participle: "suspected",
+    ing_form: "suspecting",
+    s_es_form: "suspects",
+    present_third_person: "suspects"
+  }
+},
+{
+  word: "nevertheless",
+  pronunciation: "/ˌnevəðəˈles/",
+  meanings: {
+    hindi: "फिर भी",
+    english: "in spite of that; however"
+  },
+  examples: {
+    hindi: "वह थक गया था, फिर भी उसने काम पूरा किया।",
+    english: "He was tired; nevertheless, he finished the job."
+  },
+  verb_forms: null
+},
+{
+  word: "awaken",
+  pronunciation: "/əˈweɪkən/",
+  meanings: {
+    hindi: "जगाना या जागना",
+    english: "to wake up or cause to become alert"
+  },
+  examples: {
+    hindi: "सपने ने उसे नींद से जगा दिया।",
+    english: "The dream awakened him from sleep."
+  },
+  verb_forms: {
+    base: "awaken",
+    past: "awakened",
+    past_participle: "awakened",
+    ing_form: "awakening",
+    s_es_form: "awakens",
+    present_third_person: "awakens"
+  }
+},
+{
+  word: "abstract thinker",
+  pronunciation: "/ˈæbstrækt ˈθɪŋkər/",
+  meanings: {
+    hindi: "सैद्धांतिक विचारक",
+    english: "a person who thinks in concepts and ideas, not concrete realities"
+  },
+  examples: {
+    hindi: "वह एक गहरे विचारों वाला सैद्धांतिक विचारक है।",
+    english: "He is an abstract thinker with deep insights."
+  },
+  verb_forms: null
+}
+,
+{
+  word: "concrete thinker",
+  pronunciation: "/ˈkɒŋkriːt ˈθɪŋkər/",
+  meanings: {
+    hindi: "व्यावहारिक सोचने वाला",
+    english: "a person who thinks in literal and specific terms"
+  },
+  examples: {
+    hindi: "वह एक व्यावहारिक सोच वाला व्यक्ति है जो स्पष्ट तथ्यों पर ध्यान देता है।",
+    english: "He is a concrete thinker who focuses on clear facts."
+  },
+  verb_forms: null
+},
+{
+  word: "distract",
+  pronunciation: "/dɪˈstrækt/",
+  meanings: {
+    hindi: "ध्यान भटकाना",
+    english: "to divert attention"
+  },
+  examples: {
+    hindi: "फोन की घंटी ने मुझे पढ़ाई से भटका दिया।",
+    english: "The phone call distracted me from studying."
+  },
+  verb_forms: {
+    base: "distract",
+    past: "distracted",
+    past_participle: "distracted",
+    ing_form: "distracting",
+    s_es_form: "distracts",
+    present_third_person: "distracts"
+  }
+},
+{
+  word: "unswerving",
+  pronunciation: "/ʌnˈswɜːvɪŋ/",
+  meanings: {
+    hindi: "अडिग",
+    english: "not changing or becoming weaker; steady"
+  },
+  examples: {
+    hindi: "उसकी निष्ठा अपने दोस्तों के लिए अडिग है।",
+    english: "His loyalty to his friends is unswerving."
+  },
+  verb_forms: null
+},
+{
+  word: "conducted",
+  pronunciation: "/kənˈdʌktɪd/",
+  meanings: {
+    hindi: "किए गए",
+    english: "carried out or organized"
+  },
+  examples: {
+    hindi: "उन्होंने एक सर्वेक्षण किया।",
+    english: "They conducted a survey."
+  },
+  verb_forms: {
+    base: "conduct",
+    past: "conducted",
+    past_participle: "conducted",
+    ing_form: "conducting",
+    s_es_form: "conducts",
+    present_third_person: "conducts"
+  }
+},
+{
+  word: "reveal",
+  pronunciation: "/rɪˈviːl/",
+  meanings: {
+    hindi: "प्रकट करना",
+    english: "to show or make known"
+  },
+  examples: {
+    hindi: "उसने सच प्रकट कर दिया।",
+    english: "He revealed the truth."
+  },
+  verb_forms: {
+    base: "reveal",
+    past: "revealed",
+    past_participle: "revealed",
+    ing_form: "revealing",
+    s_es_form: "reveals",
+    present_third_person: "reveals"
+  }
+},
+{
+  word: "monologue",
+  pronunciation: "/ˈmɒnəlɒɡ/",
+  meanings: {
+    hindi: "एकालाप",
+    english: "a long speech by one person"
+  },
+  examples: {
+    hindi: "उस अभिनेता ने मंच पर एक लंबा एकालाप प्रस्तुत किया।",
+    english: "The actor delivered a long monologue on stage."
+  },
+  verb_forms: null
+},
+{
+  word: "encourage",
+  pronunciation: "/ɪnˈkʌrɪdʒ/",
+  meanings: {
+    hindi: "प्रोत्साहित करना",
+    english: "to give support or confidence"
+  },
+  examples: {
+    hindi: "माता-पिता बच्चों को पढ़ाई के लिए प्रोत्साहित करते हैं।",
+    english: "Parents encourage their children to study."
+  },
+  verb_forms: {
+    base: "encourage",
+    past: "encouraged",
+    past_participle: "encouraged",
+    ing_form: "encouraging",
+    s_es_form: "encourages",
+    present_third_person: "encourages"
+  }
+},
+{
+  word: "intimate",
+  pronunciation: "/ˈɪntɪmət/ (adjective), /ˈɪntɪmeɪt/ (verb)",
+  meanings: {
+    hindi: "निकट; सूचित करना",
+    english: "closely acquainted; to imply or hint"
+  },
+  examples: {
+    hindi: "हमारे बीच एक घनिष्ठ संबंध है।",
+    english: "We share an intimate bond."
+  },
+  verb_forms: {
+    base: "intimate",
+    past: "intimated",
+    past_participle: "intimated",
+    ing_form: "intimating",
+    s_es_form: "intimates",
+    present_third_person: "intimates"
+  }
+},
+{
+  word: "intimidate",
+  pronunciation: "/ɪnˈtɪmɪdeɪt/",
+  meanings: {
+    hindi: "डराना या धमकाना",
+    english: "to frighten or threaten"
+  },
+  examples: {
+    hindi: "उसने छोटे बच्चों को धमकाया।",
+    english: "He intimidated the little kids."
+  },
+  verb_forms: {
+    base: "intimidate",
+    past: "intimidated",
+    past_participle: "intimidated",
+    ing_form: "intimidating",
+    s_es_form: "intimidates",
+    present_third_person: "intimidates"
+  }
+},
+{
+  word: "hostile",
+  pronunciation: "/ˈhɒstaɪl/",
+  meanings: {
+    hindi: "शत्रुतापूर्ण",
+    english: "unfriendly or aggressive"
+  },
+  examples: {
+    hindi: "वह अजनबियों के प्रति शत्रुतापूर्ण रहता है।",
+    english: "He is often hostile towards strangers."
+  },
+  verb_forms: null
+}
+,
+{
+  word: "threaten",
+  pronunciation: "/ˈθretən/",
+  meanings: {
+    hindi: "धमकी देना",
+    english: "to express intent to harm"
+  },
+  examples: {
+    hindi: "उसने पुलिस को बुलाने की धमकी दी।",
+    english: "She threatened to call the police."
+  },
+  verb_forms: {
+    base: "threaten",
+    past: "threatened",
+    past_participle: "threatened",
+    ing_form: "threatening",
+    s_es_form: "threatens",
+    present_third_person: "threatens"
+  }
+},
+{
+  word: "slug",
+  pronunciation: "/slʌɡ/",
+  meanings: {
+    hindi: "मुक्का मारना",
+    english: "to hit someone hard with a fist"
+  },
+  examples: {
+    hindi: "उसने गुस्से में आकर उसे जोर से मुक्का मारा।",
+    english: "He slugged him in a fit of rage."
+  },
+  verb_forms: {
+    base: "slug",
+    past: "slugged",
+    past_participle: "slugged",
+    ing_form: "slugging",
+    s_es_form: "slugs",
+    present_third_person: "slugs"
+  }
+},
+{
+  word: "profound",
+  pronunciation: "/prəˈfaʊnd/",
+  meanings: {
+    hindi: "गहरा या गंभीर",
+    english: "very deep or intense"
+  },
+  examples: {
+    hindi: "उसका भाषण गहरे प्रभावशाली था।",
+    english: "His speech had a profound impact."
+  },
+  verb_forms: null
+},
+{
+  word: "gush",
+  pronunciation: "/ɡʌʃ/",
+  meanings: {
+    hindi: "बहना या उफान",
+    english: "to flow out suddenly and in large amounts"
+  },
+  examples: {
+    hindi: "घाव से खून बहने लगा।",
+    english: "Blood began to gush from the wound."
+  },
+  verb_forms: {
+    base: "gush",
+    past: "gushed",
+    past_participle: "gushed",
+    ing_form: "gushing",
+    s_es_form: "gushes",
+    present_third_person: "gushes"
+  }
+},
+{
+  word: "consciously",
+  pronunciation: "/ˈkɒnʃəsli/",
+  meanings: {
+    hindi: "सचेत रूप से",
+    english: "with awareness or intention"
+  },
+  examples: {
+    hindi: "मैंने उसे जानबूझकर नजरअंदाज किया।",
+    english: "I consciously ignored him."
+  },
+  verb_forms: null
+},
+{
+  word: "sticky",
+  pronunciation: "/ˈstɪki/",
+  meanings: {
+    hindi: "चिपचिपा",
+    english: "having a glue-like or tacky texture"
+  },
+  examples: {
+    hindi: "यह मिठाई बहुत चिपचिपी है।",
+    english: "This candy is very sticky."
+  },
+  verb_forms: null
+},
+{
+  word: "reluctant",
+  pronunciation: "/rɪˈlʌktənt/",
+  meanings: {
+    hindi: "अनिच्छुक",
+    english: "unwilling or hesitant"
+  },
+  examples: {
+    hindi: "वह मदद मांगने में अनिच्छुक था।",
+    english: "He was reluctant to ask for help."
+  },
+  verb_forms: null
+},
+{
+  word: "interpret",
+  pronunciation: "/ɪnˈtɜːprət/",
+  meanings: {
+    hindi: "व्याख्या करना",
+    english: "to explain the meaning of"
+  },
+  examples: {
+    hindi: "कृपया इस वाक्य की व्याख्या करें।",
+    english: "Please interpret this sentence."
+  },
+  verb_forms: {
+    base: "interpret",
+    past: "interpreted",
+    past_participle: "interpreted",
+    ing_form: "interpreting",
+    s_es_form: "interprets",
+    present_third_person: "interprets"
+  }
+},
+{
+  word: "broadcast",
+  pronunciation: "/ˈbrɔːdkɑːst/",
+  meanings: {
+    hindi: "प्रसारित करना",
+    english: "to transmit a program or information"
+  },
+  examples: {
+    hindi: "समाचार टीवी पर प्रसारित किया गया।",
+    english: "The news was broadcast on TV."
+  },
+  verb_forms: {
+    base: "broadcast",
+    past: "broadcast",
+    past_participle: "broadcast",
+    ing_form: "broadcasting",
+    s_es_form: "broadcasts",
+    present_third_person: "broadcasts"
+  }
+},
+{
+  word: "unwittingly",
+  pronunciation: "/ʌnˈwɪtɪŋli/",
+  meanings: {
+    hindi: "अनजाने में",
+    english: "without being aware; unintentionally"
+  },
+  examples: {
+    hindi: "मैंने अनजाने में गलती कर दी।",
+    english: "I made a mistake unwittingly."
+  },
+  verb_forms: null
+}
+,
+{
+  word: "comes across",
+  pronunciation: "/kʌmz əˈkrɒs/",
+  meanings: {
+    hindi: "प्रकट होना या सामना होना",
+    english: "to appear or be perceived in a certain way"
+  },
+  examples: {
+    hindi: "वह बहुत आत्मविश्वासी दिखाई देता है।",
+    english: "He comes across as very confident."
+  },
+  verb_forms: {
+    base: "come across",
+    past: "came across",
+    past_participle: "come across",
+    ing_form: "coming across",
+    s_es_form: "comes across",
+    present_third_person: "comes across"
+  }
+},
+{
+  word: "roughshod",
+  pronunciation: "/ˈrʌfʃɒd/",
+  meanings: {
+    hindi: "कठोर या निर्दयी ढंग से व्यवहार करना",
+    english: "to act without regard for others; cruelly"
+  },
+  examples: {
+    hindi: "उसने नियमों पर बेरहमी से चलाया।",
+    english: "He ran roughshod over the rules."
+  },
+  verb_forms: null
+},
+{
+  word: "bluntly blurt",
+  pronunciation: "/blʌntli blɜːt/",
+  meanings: {
+    hindi: "स्पष्ट रूप से कुछ बोल देना",
+    english: "to say something suddenly and without tact"
+  },
+  examples: {
+    hindi: "उसने bluntly blurt कर दिया कि उसे नौकरी नहीं चाहिए।",
+    english: "He bluntly blurted out that he didn’t want the job."
+  },
+  verb_forms: {
+    base: "blurt",
+    past: "blurted",
+    past_participle: "blurted",
+    ing_form: "blurting",
+    s_es_form: "blurts",
+    present_third_person: "blurts"
+  }
+},
+{
+  word: "gracious",
+  pronunciation: "/ˈɡreɪʃəs/",
+  meanings: {
+    hindi: "दयालु और विनम्र",
+    english: "kind, courteous, and pleasant"
+  },
+  examples: {
+    hindi: "वह एक बहुत ही दयालु व्यक्ति है।",
+    english: "She is a very gracious person."
+  },
+  verb_forms: null
+},
+{
+  word: "treat",
+  pronunciation: "/triːt/",
+  meanings: {
+    hindi: "व्यवहार करना या इलाज करना",
+    english: "to behave towards or handle something; to give medical care"
+  },
+  examples: {
+    hindi: "डॉक्टर ने मरीज का इलाज किया।",
+    english: "The doctor treated the patient."
+  },
+  verb_forms: {
+    base: "treat",
+    past: "treated",
+    past_participle: "treated",
+    ing_form: "treating",
+    s_es_form: "treats",
+    present_third_person: "treats"
+  }
+},
+{
+  word: "boon to bottom line",
+  pronunciation: "/buːn tə ˈbɒtəm laɪn/",
+  meanings: {
+    hindi: "किसी चीज़ के लिए लाभदायक",
+    english: "beneficial to profits or success"
+  },
+  examples: {
+    hindi: "नई रणनीति कंपनी की आय के लिए फायदेमंद थी।",
+    english: "The new strategy was a boon to the bottom line."
+  },
+  verb_forms: null
+},
    
 ]
